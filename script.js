@@ -1,5 +1,6 @@
 var character = document.getElementById("character");
 
+
 function character(){
   this.width = width;
   this.height = height;
@@ -8,4 +9,8 @@ function character(){
   this.x = x;
   this.y = y;
   }
+}
+
+function updateGame(){
+  
 }
