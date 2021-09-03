@@ -28,9 +28,11 @@
 }
 .cell 
 {
+    width: 40px;
+    height: 40px;
     color: grey;
     font-size: 3rem;
-    text-aling: center;
+    text-align: center;
     padding: 4rem;
 } 
 /* cell colors and other stuff for cells are on "cells.css" file */
