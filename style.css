@@ -1,4 +1,8 @@
-#game{
+#page {
+    background-color: #f1f1f1;
+    margin: auto;
+}
+#game {
     width: 500px;
     height: 500px;
     border: 1px solid black;
@@ -6,14 +10,14 @@
     margin: auto;
 }
 
-#character{
+#character {
     width: 20px;
     height: 40px;
     background-color: red;
     position: relative;
 }
 
-#block{
+#block {
     width: 50px;
     height: 50px;
     background-color: blue;
