@@ -1,22 +1,22 @@
 #game 
 {
     background-color: #f1f1f1;
-position:absolute;
-left:0px;
-top:32px;
-right:0px;
-bottom:0px;
-overflow:hidden;
+    position:absolute;
+    left:0px;
+    top:32px;
+    right:0px;
+    bottom:0px;
+    overflow:hidden;
 }
 #wrapper
 {
-width:100%;
-height:100%;
-position:absolute;
-left:0px;
-top:0px;
-right:0px;
-bottom:0px;
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:0px;
+    top:0px;
+	right:0px;
+	bottom:0px;
 }
 #container 
 {
