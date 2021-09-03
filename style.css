@@ -1,22 +1,26 @@
-#game {
+#game 
+{
     background-color: #f1f1f1;
     margin: auto;
 }
 
-#character {
+#character 
+{
     width: 20px;
     height: 40px;
     background-color: red;
     position: relative;
 }
 
-#block {
+#block 
+{
     width: 50px;
     height: 50px;
     background-color: blue;
 }
 
-#container {
+#container 
+{
     background-color: #f1f1f1;
     width: 90vw;
     height: 90vh;
@@ -25,20 +29,24 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
 }
-.cell {
+.cell 
+{
     color: grey;
     font-size: 3rem;
     text-aling: center;
     padding: 4rem;
-} /* cell colors and other stuff for cells are on "cells.css" file */
-#sectionLeft {
+} 
+/* cell colors and other stuff for cells are on "cells.css" file */
+#sectionLeft 
+{
     position: absolute;
     left: 0px;
     top: 0px;
     width: 60%;
     bottom: 0px;
 }
-#sectionRight {
+#sectionRight 
+{
     height: 100%;
     position: absolute;
     top: 0px;
