@@ -23,3 +23,13 @@
     margin: 2rem;
     display: grid;
 }
+
+#cell {
+    color: grey;
+    font-size: 3rem;
+    text-aling: center;
+    padding: 4rem;
+}
+#cell-1{
+    background: blue;
+}
