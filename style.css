@@ -23,6 +23,7 @@
     background-color: blue;
 }
 #container {
+    background-color: #f1f1f1;
     height: 90vh;
     margin: 2rem;
     display: grid;
