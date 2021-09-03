@@ -22,6 +22,7 @@
     height: 50px;
     background-color: blue;
 }
+
 #container {
     background-color: #f1f1f1;
     height: 90vh;
@@ -30,34 +31,27 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
 }
-
 .cell {
     color: grey;
     font-size: 3rem;
     text-aling: center;
     padding: 4rem;
 }
-
 .cell-1 {
     background: blue;
 }
 .cell-2 {
-    
     color: green;
 }
-
 .cell-3 {
     background-color: red;
 }
-
 #cell-4 {
 
 }
-
 #cell-5 {
 
 }
-
 #cell-6 {
 
 }
