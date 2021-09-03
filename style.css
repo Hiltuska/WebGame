@@ -54,3 +54,9 @@
     overflow-x: hidden;
     overflow-y: scroll;
 }
+#backgroundCanvas, #backgroundLeftCanvas
+{
+    postition: absolute;
+    left: 0px;
+    top: 0px;
+}
