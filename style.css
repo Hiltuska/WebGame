@@ -31,3 +31,12 @@
     text-aling: center;
     padding: 4rem;
 } /* cell colors and other stuff for cells are on "cells.css" file */
+
+#sectionRight {
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
