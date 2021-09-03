@@ -41,17 +41,17 @@
     background: blue;
 }
 .cell-2 {
-    color: green;
+    background: green;
 }
 .cell-3 {
-    background-color: red;
+    background: red;
 }
-#cell-4 {
-
+.cell-4 {
+    background: orange;
 }
-#cell-5 {
-
+.cell-5 {
+    background: aqua;
 }
-#cell-6 {
-
+.cell-6 {
+    background: violet;
 }
