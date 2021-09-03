@@ -31,7 +31,13 @@
     text-aling: center;
     padding: 4rem;
 } /* cell colors and other stuff for cells are on "cells.css" file */
-
+#sectionLeft {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 60%;
+    bottom: 0px;
+}
 #sectionRight {
     height: 100%;
     position: absolute;
