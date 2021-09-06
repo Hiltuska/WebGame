@@ -21,7 +21,7 @@
     background-color: #f1f1f1;
     width: 50vw;
     height: 50vh;
-    margin: 2rem;
+    /* margin: 2rem; */
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto auto auto;
